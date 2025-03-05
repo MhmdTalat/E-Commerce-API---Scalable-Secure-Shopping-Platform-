@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\dto\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:dto\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\migrations\\20250305002353_rirw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:migrations\\20250305002353_rirw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\model\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:model\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|c:\\users\\muham\\onedrive\\desktop\\apiecommerce\\apiecommerce\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426F2F1-7D0E-483E-8E78-FBE010AE2CDA}|Api ECommerce.csproj|solutionrelative:dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:14:16.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCartItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\DTO\\UpdateCartItemDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UpdateCartItemDTO.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\DTO\\UpdateCartItemDTO.cs",
+              "RelativeToolTip": "DTO\\UpdateCartItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:09:14.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T18:41:24.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:39:20.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:56:20.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:01:43.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:01:47.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:05:50.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250305002353_rirw.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Migrations\\20250305002353_rirw.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250305002353_rirw.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Migrations\\20250305002353_rirw.cs",
+              "RelativeToolTip": "Migrations\\20250305002353_rirw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:23:54.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\DTO\\CartItemDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CartItemDTO.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\DTO\\CartItemDTO.cs",
+              "RelativeToolTip": "DTO\\CartItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:10:08.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Model\\CartItem.cs",
+              "RelativeDocumentMoniker": "Model\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Model\\CartItem.cs",
+              "RelativeToolTip": "Model\\CartItem.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:22:04.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowGUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:33:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Muham\\OneDrive\\Desktop\\ApiECommerce\\ApiECommerce\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:42:04.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
